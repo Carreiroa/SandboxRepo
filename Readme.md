@@ -1,4 +1,5 @@
 @Author: A. Carreiro
 
-This is a git repo on WSL.
+This repo is a sandbox for all things git. 
+
 
